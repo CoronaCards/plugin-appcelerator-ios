@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.1
+apiversion: 2
+description: Add CoronaCards to your existing native app.
+author: Corona Labs
+license: MIT
+copyright: Copyright (c) 2014 Corona Labs
+
+
+# these should not be edited
+name: plugin-appcelerator
+moduleid: com.coronalabs.coronacards
+guid: 51349171-b6e0-4ec4-a062-c86522b6d1cb
+platform: iphone
+minsdk: 3.2.1.GA
