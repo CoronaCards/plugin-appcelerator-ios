@@ -3,7 +3,7 @@
 
 #import "ComCoronalabsCoronacardsView.h"
 
-#import "CoronaKit/CoronaKit.h"
+#import "CoronaCards/CoronaCards.h"
 
 @interface ComCoronalabsCoronacardsView()
 @property (nonatomic, retain) CoronaViewController *coronaViewController;
